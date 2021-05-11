@@ -3,7 +3,7 @@ I am a dedicated Software Engineer with experience programming full stack apps f
 
 ## Let's Connect 
 - Email: babianelektra@gmail.com
-- [LinkedIn](linkedin.com/in/elektrababian)
+- [LinkedIn](https://www.linkedin.com/in/elektrababian/)
 - [Portfolio](https://elektra-babian.com/)
  
 
